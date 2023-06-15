@@ -1,2 +1,3 @@
 # SO_Project
-Projeto de SO
+Trabalho Prático de Sistemas Operativos
+(Só Peneiros)
